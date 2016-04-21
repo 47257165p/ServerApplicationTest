@@ -11,6 +11,9 @@
     <title>Alejandro's Web Page</title>
   </head>
   <body>
-  <a href="./cesar.jsp">CESAR CODIFICATOR PROGRAM</a>
+  <h1>ACTIVIDADES CON SERVLETS</h1>
+  <a href="./cesar.jsp">1. CESAR CODIFICATOR PROGRAM</a>
+  <br>
+  <a href="./color.jsp">2. ACTIVIDAD COLORES</a>
   </body>
 </html>

@@ -8,15 +8,11 @@ import java.io.PrintWriter;
 /**
  * Created by 47257165p on 05/04/16.
  */
-public class Controller extends HttpServlet{
+public class Cesar extends HttpServlet{
 
     @Override
     public void init() throws ServletException {
         super.init();
-    }
-
-    @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
     }
 
     @Override
